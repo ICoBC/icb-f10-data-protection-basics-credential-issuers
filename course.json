@@ -1,0 +1,33 @@
+{
+  "course_id": "ICB-F10",
+  "repository": "icb-f10-data-protection-basics-credential-issuers",
+  "repository_url": "https://github.com/ICoBC/icb-f10-data-protection-basics-credential-issuers",
+  "title": "Data Protection Basics for Credential Issuers",
+  "subtitle": "The personal data inside a credential and the duties that come with it.",
+  "version": "1.0.0",
+  "series": "Foundation",
+  "skill": "Security, privacy and data protection",
+  "level": "1",
+  "level_name": "Contribute",
+  "stage": "K",
+  "stage_name": "Knowledge",
+  "alignment_code": "ICSF-SECP-L1-K",
+  "badge_name": "Data Protection Basics for Credential Issuers (Knowledge, L1)",
+  "hours": "2",
+  "language": "en-GB",
+  "licence": "CC BY 4.0",
+  "licensor": "International Council on Badges and Credentials e.V.",
+  "web": "https://academy.icobc.net/courses/icb-f10/",
+  "parts": [
+    "About this course",
+    "Personal data in credentials",
+    "Legal basis and purpose",
+    "Minimise what you publish",
+    "Earner rights",
+    "Third parties, platforms and transfers",
+    "Assessment and badge",
+    "Sources and further reading"
+  ],
+  "final_questions": 10,
+  "practice_questions": 20
+}
